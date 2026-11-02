@@ -1,0 +1,11 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Reference books are copyrighted: keep them local, never commit them
+/*.pdf
+
+# macOS
+.DS_Store
